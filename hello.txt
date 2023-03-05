@@ -11,4 +11,4 @@ hello bayue! hello git!
 hello bayue! hello git!
 hello bayue! hello git!
 hello bayue! hello git!
-hello bayue! hello git!
+hello bayue! hello git! hot-fix test
